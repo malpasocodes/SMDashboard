@@ -13,6 +13,8 @@ if selection == "Home":
              It is based on data from the [Opportunity Insights project](https://opportunityinsights.org/). The site is work in progress.
              Please send comments and suggestions to [malpaso@alfredcodes.com](mailto:malpaso@alfredcodes.com).
              """)
+    ()
+    st.write("Also check out the NY Times [College Mobility Site](https://www.nytimes.com/interactive/projects/college-mobility/city-college-of-new-york) based on the same data.")
 
 
 
